@@ -1,0 +1,4 @@
+strands-agents==1.64.0
+openai==3.46.0
+python-dotenv==1.2.4
+httpx==0.28.1
